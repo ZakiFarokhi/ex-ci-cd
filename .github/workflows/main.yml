@@ -1,5 +1,3 @@
-at the main.yml file should contain. Since this is a YAML file, ensure that it is spaced correctly:
-
 name: Main
 on:
   push:
